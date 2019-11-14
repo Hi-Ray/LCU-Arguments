@@ -9,8 +9,9 @@
 | --auto-kill                                     |         |                                         |                                                 |                        |
 | --bugsplat-platform-id                          |  String |                                         | --bugsplat-platform-id=EUW1                     |                        |
 | --bugsplat-name                                 |  String |                                         |                                                 |                        |
-| --cold-dylib-cache                              |         |                                         |                                                 |                        |
 | --channel                                       |         |                                         | --channel=51962.1.76785605                      |                        |
+| --client-config-url                             |  String |                                         | --client-config-url=https://clientconfig.rpg.riotgames.com |             |
+| --cold-dylib-cache                              |         |                                         |                                                 |                        |
 | --content-image-texture-target                  |   List  |                                         | --content-image-texture-target=1,2,3,4          |                        |
 | --disable-bugsplats                             |         |                                         | --disable-bugsplats                             |                        |
 | --disable-databases                             |         |                                         | --disable-databases                             |                        |
@@ -32,6 +33,7 @@
 | --insecure                                      |         |                                         | --insecure                                      |                        |
 | --install-directory                             |         |                                         |                                                 |                        |
 | --landing-token                                 |         |                                         |                                                 |                        |
+| --locale                                        |  String |                                         | --locale=en_US                                  |                        |
 | --log-dir                                       |  String |                                         | --log-dir                                       |                        |
 | --log-file                                      |  String |                                         | --log-file=""                                   |                        |
 | --log-subdir                                    |  String |                                         | --log-subdir=""                                 |                        |
@@ -42,6 +44,7 @@
 | --login.userId                                  |         |                                         |                                                 |                        |
 | --mock-backend-plugins                          |         |                                         |                                                 |                        |
 | --no-proxy-server                               |         |                                         | --no-proxy-server                               |                        |
+| --no-rads                                       |         |                                         | --no-rads                                       |                        |
 | --no-sandbox                                    |         |                                         | --no-sandbox                                    |                        |
 | --num-raster-threads                            | Integer |                                         | --num-raster-threads=1                          |                        |
 | --patcher-aux-data                              |         |                                         |                                                 |                        |
@@ -49,6 +52,7 @@
 | --primary-ux-log-file-path                      |  String |                                         | --primary-ux-log-file-path=""                   |                        |
 | --project                                       |         |                                         |                                                 |                        |
 | --quite-bugsplats                               |         |                                         | --quite-bugsplats                               |                        |
+| --region                                        |  String |                                         | --region=NA                                     |                        |
 | --release                                       |         |                                         |                                                 |                        |
 | --release-that-triggered-restore                |         |                                         |                                                 |                        |
 | --remote-tracing                                |         |                                         |                                                 |                        |
@@ -58,6 +62,7 @@
 | --respawn-display-name                          |         |                                         |                                                 |                        |
 | --riotclient-app-auth                           |  String |                                         |                                                 |                        |
 | --riotclient-app-port                           | Integer |                                         | --riotclient-app-port=12345                     |                        |
+| --riotclient-auth-token                         |  String |                                         | --riotclient-auth-token=ivA3Yi-u5aqUd_0q1ATCZM  |                        |
 | --scheduler-tracing                             |         |                                         |                                                 |                        |
 | --scheduler-tracing-quiter                      |         |                                         |                                                 |                        |
 | --self-update-url                               |  String |                                         |                                                 |                        |
