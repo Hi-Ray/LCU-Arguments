@@ -76,3 +76,9 @@
 | --ux-helper-name                                |  String |                                         | --ux-helper-name=""                             |                        |
 | --ux-name                                       |  String |                                         | --ux-name=""                                    |                        |
 | --video-image-texture-target                    |         |                                         |                                                 |                        |
+| --mem-mon-reg-delta                             |         |                                         |                                                 |                        |
+| --mem-mon-pf-delta                              |         |                                         |                                                 |                        |
+| --mem-mon-mem-delta                             |         |                                         |                                                 |                        |
+| --mem-mon-interval                              |         |                                         |                                                 |                        |
+| --mem-mon-enabled                               |         |                                         |                                                 |                        |
+| --rads-product-directory                        |         |                                         |                                                 |                        |
