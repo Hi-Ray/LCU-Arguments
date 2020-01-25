@@ -5,7 +5,7 @@
 | --app-port                                      | Integer |                                         | --app-port=12345                                |                        |
 | --app-listen-address                            |         |                                         |                                                 |                        |
 | --app-log-file-path                             |  String |                                         | --app-log-file-path=""                          |                        |
-| --allow-multiple-clients                        |         |                                         |                                                 |                        |
+| --allow-multiple-clients                        |         |                                         | --allow-multiple-clients                        | Disables patching too  |
 | --auto-kill                                     |         |                                         |                                                 |                        |
 | --bugsplat-platform-id                          |  String |                                         | --bugsplat-platform-id=EUW1                     |                        |
 | --bugsplat-name                                 |  String |                                         |                                                 |                        |
