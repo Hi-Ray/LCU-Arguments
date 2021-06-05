@@ -6,7 +6,12 @@
 | --app-listen-address                            |         |                                         |                                                 |                        |
 | --app-log-file-path                             |  String |                                         | --app-log-file-path=""                          |                        |
 | --allow-multiple-clients                        |         |                                         | --allow-multiple-clients                        | Disables patching too  |
+| --allow-running-insecure-content                |         |                                         | --allow-running-insecure-content                |         				 |
+| --app-log-file-path                   		  |  String |                                         | --app-log-file-path  "\path"                    |    %1=%2		         |
 | --auto-kill                                     |         |                                         |                                                 |                        |
+| --ccs                                           |         |                                         |                                                 |                        |
+| --client-config-local-file                      |         |                                         |                                                 |                        |
+| --client-config-url                             |         |                                         |                                                 |                        |
 | --bugsplat-platform-id                          |  String |                                         | --bugsplat-platform-id=EUW1                     |                        |
 | --bugsplat-name                                 |  String |                                         |                                                 |                        |
 | --channel                                       |         |                                         | --channel=51962.1.76785605                      |                        |
@@ -31,6 +36,7 @@
 | --headless                                      |         | Runs the league client in headless mode | --headless                                      |                        |
 | --ignore-plugin-versions                        |         |                                         | --ignore-plugin-versions                        |                        |
 | --insecure                                      |         |                                         | --insecure                                      |                        |
+| --ignore-plugin-versions                        |         |                                         |                                                 |                        |
 | --install-directory                             |         |                                         |                                                 |                        |
 | --landing-token                                 |         |                                         |                                                 |                        |
 | --locale                                        |  String |                                         | --locale=en_US                                  |                        |
